@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "AI Answer Bot",
+  "name": "CogniFlow",
+  "description": "AI assistant for neurodiverse users. Features Bionic Reading, text simplification, and summaries.",
   "version": "0.1",
   "permissions": [
     "storage",
